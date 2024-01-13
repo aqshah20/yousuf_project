@@ -1,11 +1,10 @@
-import React from 'react'
-import Hero from '../hero/Hero'
+import Slider from '../slider/Slider'
 import Cards from '../card/Cards'
 
 function Home() {
   return (
     <>
-    <Hero/>
+    <Slider/>
     <Cards/>
     <Cards/>
     <Cards/>

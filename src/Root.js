@@ -1,5 +1,5 @@
 import {Outlet} from 'react-router-dom';
-import Navigation from './components/navbar/Navigation';
+import Navigation from './components/navigation/Navigation';
 
 
 function Root() {
